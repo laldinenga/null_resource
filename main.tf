@@ -5,4 +5,5 @@ terraform {
       version = "~> 3.2"
     }
   }
+  resource "null_resource" "test1" {}
 }
