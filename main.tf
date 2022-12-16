@@ -7,4 +7,4 @@ resource "null_resource" "test6" {}
 resource "null_resource" "test7" {}
 resource "null_resource" "test8" {}
 resource "null_resource" "test9" {}
-resource "null_resource" "pullrequest" {}
+resource "null_resource" "10" {}
